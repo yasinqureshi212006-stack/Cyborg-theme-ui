@@ -1,0 +1,6 @@
+{
+  "name": "Cyborg Nexus Landing",
+  "description": "A responsive landing page with a futuristic cyborg theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
